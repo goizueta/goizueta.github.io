@@ -1,13 +1,12 @@
 # General
-name: Leonard Lamprecht
-description: A teenagers view on web development and intuitive UI design.
-url: http://leo.im
-google_verify: WfHNxUaAd-tBjGYLYIJfhHp4x4mCPkeSZedrHjDjgxo
+name: Roberto Goizueta 
+description: A website for my works and writings.
+url: http://goizueta.github.io
 
 author:
-  name: Leonard Lamprecht
-  email: mindrun@icloud.com
-  uri: http://leo.im/about/
+  name: Roberto Goizueta 
+  email: rcgoizueta@gmail.com
+  uri: http://goizueta.github.io/about
 
 # Build
 sass:
@@ -16,7 +15,7 @@ sass:
 
 #Other
 permalink: /notes/:title
-timezone: Europe/Berlin
+timezone: America/New_York
 include: [ 'robots.txt' ]
 exclude: [ 'LICENSE', 'README.md', 'CNAME', 'vendor', 'Gemfile' ]
 gems:
